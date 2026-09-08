@@ -1,4 +1,4 @@
-# AEP---PSE-em-a-o---ESOFT-2S-NA
+# AEP---PSE-EM-AÇÃO---ESOFT-2S-NA
 PSE em Ação
 
 Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola
